@@ -48,7 +48,7 @@
     "@capacitor/status-bar": "^1.0.6",
     "@ionic/react": "^5.9.1",
     "@ionic/react-router": "^5.9.1",
-    "@kubernetes/client-node": "^0.16.0",
+    "@kubernetes/client-node": "^0.18.1",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.7",
     "@types/react": "^17.0.35",
